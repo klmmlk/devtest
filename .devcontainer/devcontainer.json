@@ -1,0 +1,12 @@
+{
+    "name": "PyCharm Remote with JupyterLab",
+    "image": "jupyter/scipy-notebook",
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "extensions": [
+        "ms-python.python"
+    ],
+    "postCreateCommand": "pip install tushare",
+    "remoteUser": "vscode"
+}
