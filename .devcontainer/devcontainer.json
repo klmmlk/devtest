@@ -1,6 +1,6 @@
 {
     "name": "PyCharm Remote with JupyterLab",
-    "image": "jupyter/scipy-notebook",
+    "image": "quay.io/jupyter/base-notebook",
     "settings": {
         "terminal.integrated.shell.linux": "/bin/bash"
     },
