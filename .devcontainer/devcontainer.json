@@ -7,6 +7,5 @@
     "extensions": [
         "ms-python.python"
     ],
-    "postCreateCommand": "pip install tushare",
-    "remoteUser": "jovyan"
+    "postCreateCommand": "pip install tushare"
 }
