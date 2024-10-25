@@ -8,5 +8,5 @@
         "ms-python.python"
     ],
     "postCreateCommand": "pip install tushare",
-    "remoteUser": "developer"
+    "remoteUser": "jovyan"
 }
